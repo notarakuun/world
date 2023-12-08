@@ -1,0 +1,17 @@
+{
+	id: "725101ad-19a7-4189-a030-a9d4b21384a4"
+	type: "player"
+	player_name: "CameronCreeper12"
+	ranks: {
+		725101ad-19a7-4189-a030-a9d4b21384a4: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "CameronCreeper12"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF89"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

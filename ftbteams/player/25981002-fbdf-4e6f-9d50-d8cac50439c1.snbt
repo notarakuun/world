@@ -1,0 +1,15 @@
+{
+	id: "25981002-fbdf-4e6f-9d50-d8cac50439c1"
+	type: "player"
+	player_name: "TheGoldenFormula"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "TheGoldenFormula"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F0FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

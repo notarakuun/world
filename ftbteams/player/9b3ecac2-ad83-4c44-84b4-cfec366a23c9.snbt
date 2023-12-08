@@ -1,0 +1,17 @@
+{
+	id: "9b3ecac2-ad83-4c44-84b4-cfec366a23c9"
+	type: "player"
+	player_name: "Zenn_Zora"
+	ranks: {
+		9b3ecac2-ad83-4c44-84b4-cfec366a23c9: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Zenn_Zora"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FBFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

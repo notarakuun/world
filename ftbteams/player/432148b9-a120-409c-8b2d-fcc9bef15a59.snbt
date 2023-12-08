@@ -1,0 +1,15 @@
+{
+	id: "432148b9-a120-409c-8b2d-fcc9bef15a59"
+	type: "player"
+	player_name: "DeadeyeS12K"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "DeadeyeS12K"
+		"ftbteams:description": ""
+		"ftbteams:color": "#597DFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

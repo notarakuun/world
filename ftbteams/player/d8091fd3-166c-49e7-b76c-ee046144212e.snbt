@@ -1,0 +1,15 @@
+{
+	id: "d8091fd3-166c-49e7-b76c-ee046144212e"
+	type: "player"
+	player_name: "NotRacc_"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "NotRacc_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFD4"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

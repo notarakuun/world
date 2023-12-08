@@ -1,0 +1,25 @@
+{
+	id: "bc8b7ee2-2f1c-40dd-87e4-086737ae6fcf"
+	type: "party"
+	owner: "25981002-fbdf-4e6f-9d50-d8cac50439c1"
+	ranks: {
+		d8091fd3-166c-49e7-b76c-ee046144212e: "member"
+		25981002-fbdf-4e6f-9d50-d8cac50439c1: "owner"
+		432148b9-a120-409c-8b2d-fcc9bef15a59: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F0FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1701511365681L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"TheGoldenFormula\"}]}" }
+		{ from: "25981002-fbdf-4e6f-9d50-d8cac50439c1", date: 1701511365683L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"DeadeyeS12K\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1701511410028L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"DeadeyeS12K\"}]}" }
+		{ from: "25981002-fbdf-4e6f-9d50-d8cac50439c1", date: 1701586754588L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"NotRacc_\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1701587116697L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"NotRacc_\"}]}" }
+	]
+	extra: { }
+}

@@ -1,0 +1,15 @@
+{
+	id: "f0ff2192-6053-4218-b909-c0b4093910f2"
+	type: "player"
+	player_name: "Quake524"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Quake524"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5999"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

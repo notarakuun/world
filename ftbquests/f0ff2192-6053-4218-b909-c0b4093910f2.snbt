@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "f0ff219260534218b909c0b4093910f2"
+	name: "Quake524#f0ff2192"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1701607392621L
+		2574E7CF699D5B45: 1701607392621L
+		0470194500CBE26C: 1701607392621L
+		0000000000000001: 1701607392621L
+	}
+	completed: {
+		2574E7CF699D5B45: 1701607392621L
+		0470194500CBE26C: 1701607392621L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

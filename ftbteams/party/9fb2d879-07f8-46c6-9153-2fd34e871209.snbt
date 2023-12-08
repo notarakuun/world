@@ -1,0 +1,17 @@
+{
+	id: "9fb2d879-07f8-46c6-9153-2fd34e871209"
+	type: "party"
+	owner: "f0ff2192-6053-4218-b909-c0b4093910f2"
+	ranks: {
+		f0ff2192-6053-4218-b909-c0b4093910f2: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Quake524's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#68FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1701651670418L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Quake524\"}]}" }]
+	extra: { }
+}

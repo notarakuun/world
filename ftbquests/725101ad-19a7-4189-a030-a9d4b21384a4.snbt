@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "725101ad19a74189a030a9d4b21384a4"
+	name: "CameronCreeper12#725101ad"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1701606318946L
+		2574E7CF699D5B45: 1701606318946L
+		0470194500CBE26C: 1701606318946L
+		0000000000000001: 1701606318946L
+	}
+	completed: {
+		2574E7CF699D5B45: 1701606319032L
+		0470194500CBE26C: 1701606319032L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
